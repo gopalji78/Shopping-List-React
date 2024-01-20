@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "Functionalities: "
+    },
+    {
+      "id": "2",
+      "checked": false,
+      "item": "Add Item"
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "item": "Delete Item"
+    },
+    {
+      "id": "4",
+      "checked": false,
+      "item": "Search Item"
+    }
+  ]
+}
