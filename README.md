@@ -5,5 +5,6 @@ This app can be clubed with JWT authentication and a server, and can be made for
 
 
 <h1>Demo</h1>
-https://github.com/gopalji78/Shopping-List-React/assets/133580134/79f43381-18eb-48ce-a2a9-6190644b9ca5
+
+https://github.com/gopalji78/Shopping-List-React/assets/133580134/ae58d04f-6fcd-4dfe-8a08-965e26610bd7
 
